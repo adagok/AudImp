@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudImp", "Assembly-CSharp.csproj", "{A0626609-DC12-2F38-5407-8B2DC6B38169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudImp", "Assembly-CSharp-Editor.csproj", "{61A361AF-2A45-E291-A1B6-7A2D16F3733B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0626609-DC12-2F38-5407-8B2DC6B38169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0626609-DC12-2F38-5407-8B2DC6B38169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0626609-DC12-2F38-5407-8B2DC6B38169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0626609-DC12-2F38-5407-8B2DC6B38169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A361AF-2A45-E291-A1B6-7A2D16F3733B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A361AF-2A45-E291-A1B6-7A2D16F3733B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A361AF-2A45-E291-A1B6-7A2D16F3733B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A361AF-2A45-E291-A1B6-7A2D16F3733B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
